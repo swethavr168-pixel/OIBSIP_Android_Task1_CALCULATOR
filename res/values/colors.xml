@@ -1,0 +1,7 @@
+<resources>
+    <color name="purple_bg">#1E1B2E</color>
+    <color name="purple_dark">#2A2540</color>
+    <color name="purple_light">#7E57C2</color>
+    <color name="purple_accent">#9C27B0</color>
+    <color name="white">#FFFFFF</color>
+</resources>
